@@ -1,0 +1,69 @@
+.download-srs
+{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.download-srs:hover
+{
+    color: white;
+}
+
+.download
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2em;
+}
+
+.download-app
+{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+.download-app:hover
+{
+    color: rgb(228, 229, 230);
+}
+
+.bg-download-app
+{
+    background-size: cover;
+}
+
+.bg
+{
+    background-color: rgb(255, 255, 255);
+}
+
+.doc-download
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.doc-download > *
+{
+    margin: 2rem 1rem;
+}
+
+.bg-index
+{
+    width: 98vw;
+    height: 50rem;
+}
+
+
+.bg
+{
+    background-color: rgb(152, 46, 252);
+    background-size: cover;
+}
